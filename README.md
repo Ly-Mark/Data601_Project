@@ -83,8 +83,6 @@ data disclaimers
 <!-- CONTACT -->
 ## Contact
 
-####Data 602 Team 10
-
 Dennis Felton - </br>
 Eric Lauper - </br>
 Mark Ly - [https://github.com/Ly-Mark](https://github.com/Ly-Mark) / [mark.ly@ucalgary.ca](mark.ly@ucalgary.ca)
