@@ -75,7 +75,7 @@ The complied data sets needed to run this project locally will be:
 <!-- LICENSE -->
 ## License
 
-Data collected for this project was from:
+Data collected for this project was from the following websites:
 
 [ESPN](http://www.espn.com/nba/salaries): Which is owned and operated by The Walt Disney Company. We will adhere to the
 terms and conidtions outlined in order to access the site and use this data for our project.
