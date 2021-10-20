@@ -66,6 +66,8 @@ The complied data sets needed to run this project locally will be:
 * teamSalary.csv
 * winpercent2021.csv
 * teamData.csv
+* positionSalary.csv
+* sal05.csv
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
