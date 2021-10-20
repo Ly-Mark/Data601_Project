@@ -5,7 +5,7 @@ University of Calgary Data 601 Final group Project
 Team 10 - Big data
 
 ### Members
-Dennis Felton, Eric Lauper, Mark Ly
+Dennis Felson, Eric Lauper, Mark Ly
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -40,11 +40,6 @@ An exploratory data analysis on player and team salary of players in the NBA.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
- - [Datasets](https://github.com/Ly-Mark/Data601_Project)
-
 ### Packages
 
 The packages used in this project are as follows:
@@ -64,10 +59,13 @@ The packages used in this project are as follows:
 Data sets can be found on a private repository located on Github. These datasets must be in the same local folder in
 order for the code to be run. 
 
+[Datasets](https://github.com/Ly-Mark/Data601_Project)
+
 The complied data sets needed to run this project locally will be:
 * nba-salaries.csv
 * teamSalary.csv
 * winpercent2021.csv
+* teamData.csv
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,7 +73,16 @@ The complied data sets needed to run this project locally will be:
 <!-- LICENSE -->
 ## License
 
-data disclaimers
+Data collected for this project was from:
+
+[ESPN](http://www.espn.com/nba/salaries): Which is owned and operated by The Walt Disney Company. We will adhere to the
+terms and conidtions outlined in order to access the site and use this data for our project.
+
+[Hoopshype](https://hoopshype.com/salaries/): Which is owned and operated by USA Today. We will adhere to the
+terms and conditions outlined in order to access the site and use this data for our project.
+
+[Basketball Reference](https://www.basketball-reference.com/leagues/NBA_2021_ratings.html): Which is owned and operated by
+Sports Reference LLC. We will adhere to the terms and conditions in order to use this data for our project
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -83,8 +90,8 @@ data disclaimers
 <!-- CONTACT -->
 ## Contact
 
-Dennis Felton - </br>
-Eric Lauper - </br>
+Dennis Felson - [dennis.felson@ucalgary.ca](dennis.felson@ucalgary.ca)</br>
+Eric Lauper - [emlauper@ucalgary.ca](emlauper@ucalgary.ca)</br>
 Mark Ly - [https://github.com/Ly-Mark](https://github.com/Ly-Mark) / [mark.ly@ucalgary.ca](mark.ly@ucalgary.ca)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
